@@ -11,7 +11,7 @@
 	<groupId>com.usecase2</groupId>
 	<artifactId>travel-agency-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TravelAgencySystem</name>
+	<name>travel-agency-system</name>
 	<description>Spring Boot application to do CRUD operations on Travel Agency System</description>
 	<properties>
 		<java.version>17</java.version>
